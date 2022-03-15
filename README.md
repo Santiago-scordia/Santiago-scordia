@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Santiago-scordia
 - 👀 I’m interested in Frontend Develop
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning React 
 - 💞️ I’m looking to collaborate on frontend proyects
 - 📫 How to reach me https://santiago-scordia.github.io/
 
