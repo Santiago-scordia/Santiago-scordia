@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @Santiago-scordia
-- 👀 I’m interested in Frontend Develop
-- 🌱 I’m currently learning Vue.JS 
-- 💞️ I’m looking to collaborate on frontend proyects
-- 📫 How to reach me https://santiago-scordia.github.io/
+
 
 <!---
 Santiago-scordia/Santiago-scordia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
